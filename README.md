@@ -1,1 +1,2 @@
-# Sales-Prediction
+# 💰SALES PREDICTION USING PYTHON
+### This Project will guide you through the exciting world of sales prediction using machine learning in Python. We'll delve into the world of data science and explore how it empowers businesses to optimize advertising strategies. By leveraging the power of Python libraries, we'll build a sales prediction model that considers various factors influencing customer purchases. This model will be instrumental in making informed decisions about advertising costs and maximizing your sales potential. So, buckle up and get ready to embark on this data-driven adventure! I have used two models i.e. Linear Regression and SVM. Explore the notebook to find the results.
